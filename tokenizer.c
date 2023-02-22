@@ -48,7 +48,7 @@ char **strtow(char *str, char *d)
 	return (s);
 }
 
-/*
+/**
  * **strtow2 - splits a string into words
  * @str: the input string
  * @d: the delimeter
